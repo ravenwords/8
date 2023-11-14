@@ -1,0 +1,11 @@
+Model Information:
+* title:	Abby The Cute Avocado
+* source:	https://sketchfab.com/3d-models/abby-the-cute-avocado-4055e3c2fef0403da635c86d0f837af2
+* author:	dukepipe (https://sketchfab.com/dukepipe)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Abby The Cute Avocado" (https://sketchfab.com/3d-models/abby-the-cute-avocado-4055e3c2fef0403da635c86d0f837af2) by dukepipe (https://sketchfab.com/dukepipe) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
